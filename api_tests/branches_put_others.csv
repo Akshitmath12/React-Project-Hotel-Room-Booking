@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+12345678,123456781234,London,Acme Ltd,+442071838750,support@acme.com
+23456789,234567892345,Paris,Beta Corp,33140699339,sales@beta.com
+34567890,345678903456,Berlin,HQ GmbH,+4930224497500,info@hq.com
+00123456,001234560012,Tokyo,Global Partners,+81344666900,contact@globalpartners.jp
+11223344,112233441122,Beijing,China Imports,+861085503030,support@chinaimports.cn
+22334455,223344552233,New York,XYZ Inc,+12125551234,help@xyzinc.com
+33445566,334455663344,Sydney,DownUnder Pty,+61291234567,info@downunder.com.au
+44556677,445566774455,Amsterdam,Flower Shop,+31201234567,support@flowershop.nl
+55667788,556677885566,Moscow,Moskva LLC,+74951234567,info@moskva.ru
+66778899,,Cairo,Egypt Export,+20223586743,contact@egyptexport.eg

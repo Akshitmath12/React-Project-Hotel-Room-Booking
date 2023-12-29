@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl
+1,REF-01,2021-01-01,2022-01-01,http://credential.url/1
+2,REF-02,2021-02-01,2022-02-01,http://credential.url/2
+3,REF-03,2021-03-01,2022-03-01,http://credential.url/3
+4,REF-04,2021-04-01,2022-04-01,http://credential.url/4
+5,REF-05,2021-05-01,2022-05-01,http://credential.url/5
+6,REF-06,2021-06-01,2022-06-01,http://credential.url/6
+7,REF-07,2021-07-01,2022-07-01,http://credential.url/7
+8,REF-08,2021-08-01,2022-08-01,http://credential.url/8
+9,REF-09,2021-09-01,2022-09-01,http://credential.url/9
+10,REF-10,2021-10-01,2022-10-01,http://credential.url/10

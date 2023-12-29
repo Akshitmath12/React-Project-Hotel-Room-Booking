@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+JS,John,Smith,Williams,1978-06-28,New York,+12025550122,johnwilliams@gmail.com,100021,122,B,US,12345678
+RB,Robert,John,Brown,1980-09-15,Los Angeles,+12025550123,robertbrown@gmail.com,90001,123,C,US,12345679
+MJ,Mary,Jane,Johnson,1983-11-20,San Francisco,+12025550124,maryjohnson@gmail.com,94101,124,D,US,12345680
+AW,Alice,Marie,Wang,1977-04-11,Austin,+12025550125,alicewang@gmail.com,73301,125,E,US,12345681
+JC,Jack,Jason,Chen,1990-10-16,Houston,+12025550126,jackchen@gmail.com,77001,126,F,US,12345682
+NH,Nicholas,Joseph,Hall,1991-03-02,Chicago,+12025550127,nicholashall@gmail.com,60601,127,G,US,12345683
+AR,Alex,Roger,Rodriguez,1993-01-21,Dallas,+12025550128,alexrodriguez@gmail.com,75201,128,H,US,12345684
+LW,Lisa,Ann,Williams,1985-07-05,San Antonio,+12025550129,lisawilliams@gmail.com,78201,129,I,US,12345685
+SH,Sophia,Helen,Clark,1992-08-18,Philadelphia,+12025550130,sophiaclark@gmail.com,19019,130,J,US,12345686
+GB,George,Bryan,Baker,1980-11-30,Phoenix,+12025550131,georgebaker@gmail.com,85001,131,K,US,12345687

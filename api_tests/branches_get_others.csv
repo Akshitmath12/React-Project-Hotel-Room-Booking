@@ -1,0 +1,11 @@
+coc-number,coc-branch-number,trade-name,size,offset,statusCode
+123455,201,TechCo,34,35,200
+234566,202,NanoSoft,68,70,300
+345677,,MicroMax,32,33,403
+456788,204,AlphaFlow,,,200
+567899,205,DeltaTech,45,46,201
+678910,206,,50,51,305
+789021,207,InfraSoft,59,,301
+890132,208,ZetaTech,61,62,405
+901243,209,,71,72,202
+012354,210,MegaFlow,88,90,304

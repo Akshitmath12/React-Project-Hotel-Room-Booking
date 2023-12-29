@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+1,JD,John,Doe,Smith,1990-01-01,New York,1234567890,johnsmith@mail.com,1234A1,1,A,US,REF01
+2,AB,Alice,Bob,Parker,1980-05-01,Chicago,0987654321,aliceparker@mail.com,5678B2,2,B,US,REF02
+3,CD,Charlie,Dane,Johnson,1970-04-01,Boston,1122334455,charliejohnson@mail.com,9012C3,3,C,US,REF03
+4,EF,Eva,Frank,Miller,1960-08-01,Los Angeles,5544332211,evamiller@mail.com,3456D4,4,D,US,REF04
+5,GH,Gina,Hank,Williams,1995-06-01,Houston,7766554433,ginawilliams@mail.com,7890E5,5,E,US,REF05
+6,IJ,Irene,Jacob,Brown,1985-07-01,Philadelphia,9988776655,irenebrown@mail.com,0123F6,6,F,US,REF06
+7,KL,Kate,Lane,Anderson,1991-10-01,Austin,8877665544,kateanderson@mail.com,4567G7,7,G,US,REF07
+8,MN,Mike,Nick,Jackson,1987-09-01,San Francisco,7766554433,mikejackson@mail.com,8910H8,8,H,US,REF08
+9,OP,Oliver,Peter,Garcia,1979-12-01,Columbus,6655443322,olivergarcia@mail.com,2345I9,9,I,US,REF09
+10,QR,Quincy,Roger,Harris,1996-11-01,Indianapolis,5544332211,quincyharris@mail.com,6789J0,10,J,US,REF10

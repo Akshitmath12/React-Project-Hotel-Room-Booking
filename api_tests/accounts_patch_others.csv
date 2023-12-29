@@ -1,0 +1,12 @@
+email,password
+test1@gmail.com,Password1
+test2@hotmail.com,Password2
+notavalidemail,Password3
+test3@yahoo.com,Password4567890
+test4@gmail.com,
+,@yahoo.com,Password5
+test5@hotmail.com, Password 6
+test6@gmail.com,Password7
+test7@hotmail.com,paS$word8
+,,Password9
+test8@yahoo.com,Password10

@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,status,credentialUrl,suspendedUntil,issuedAt,createdAt,updatedAt,recipient
+1abc,A1,2022-01-01,2023-01-01,active,http://url1.com,,2022-01-10,2022-01-02,2022-01-11,John Smith
+2efg,B2,2022-01-05,2023-01-05,expired,http://url2.com,2022-12-05,2022-01-07,2022-01-06,2022-01-08,Jane Doe
+3hij,C3,2022-02-01,,suspended,http://url3.com,2022-02-15,2022-02-03,2022-02-02,2022-02-04,Mark Taylor
+4jkl,D4,2022-02-05,2023-02-05,active,http://url4.com,,2022-02-08,2022-02-06,2022-02-09,Lisa Brown
+5mno,E5,2022-03-01,2023-03-01,revoked,http://url5.com,2023-03-01,2022-03-03,2022-03-02,2022-03-04,Paul Davis
+6pqr,F6,2022-03-05,2023-03-05,pending,http://url6.com,,2022-03-08,2022-03-06,2022-03-10,Mary Adams
+7stu,G7,2022-04-01,,active,http://url7.com,,2022-04-03,2022-04-02,2022-04-04,Frank Wilson
+8vwx,H8,2022-04-05,2023-04-05,expired,http://url8.com,2023-04-05,2022-04-07,2022-04-06,2022-04-08,Jane Hill
+9yz,I9,2022-05-01,,suspended,http://url9.com,2022-05-15,2022-05-03,2022-05-02,2022-05-04,John Fisher
+10ab,J10,2022-05-05,2023-05-05,active,http://url10.com,,2022-05-08,2022-05-06,2022-05-09,Jane Thompson

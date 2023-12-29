@@ -1,0 +1,11 @@
+id,tradeName,phone,email
+1,GoodBuy,1234567890,example@domain.com
+2,SmartCo,9876543210,
+3,FastMax,,fastmax@mail.com
+4,SupremeDeal,4567891230,sd@mail.net
+5,EfficientMart,1112223333,effmart@org.test
+6,CapitalMart,2223334444,cm@mail.org
+7,FirstCity,3334445555,
+8,GrandView,4445556666,grandview@mail.net
+9,ValueCheck,5556667777,valuecheck@mail.com
+10,SmartChoice,6667778888,smartchoice@mail.org

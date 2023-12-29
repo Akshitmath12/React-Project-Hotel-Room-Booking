@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+12345678,123456789012,Amsterdam,TradeCo1,0612345678,trade1@tradeco.com
+23456789,234567890123,Rotterdam,TradeCo2,0712345678,trade2@tradeco.com
+34567890,345678901234,The Hague,TradeCo3,0812345678,trade3@tradeco.com
+45678901,456789012345,Utrecht,TradeCo4,0912345678,trade4@tradeco.com
+56789012,567890123456,Eindhoven,TradeCo5,1012345678,trade5@tradeco.com
+67890123,678901234567,Tilburg,TradeCo6,1112345678,trade6@tradeco.com
+78901234,789012345678,Groningen,TradeCo7,1212345678,trade7@tradeco.com
+89012345,890123456789,Almere,TradeCo8,1312345678,trade8@tradeco.com
+90123456,901234567890,Breda,TradeCo9,1412345678,trade9@tradeco.com
+01234567,012345678901,Nijmegen,TradeCo10,1512345678,trade10@tradeco.com

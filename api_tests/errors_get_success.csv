@@ -1,0 +1,11 @@
+statusCode,api-version,error,description,schema_field,value
+200,1.0.0,error/code,Descriptive Error Message,field1,123
+200,1.0.1,error/code,Descriptive Error Message,field2,456
+200,1.0.2,validation/email-pattern,Descriptive Error Message,field1,789
+200,1.0.3,validation/email-pattern,Descriptive Error Message,field2,321
+200,1.0.4,error/code,Descriptive Error Message,field1,654
+200,1.0.5,error/code,Descriptive Error Message,field2,987
+200,1.0.6,validation/email-pattern,Descriptive Error Message,field1,231
+200,1.0.7,validation/email-pattern,Descriptive Error Message,field2,564
+200,1.0.8,error/code,Descriptive Error Message,field1,897
+200,1.0.9,error/code,Descriptive Error Message,field2,132
