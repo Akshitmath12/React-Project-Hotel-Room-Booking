@@ -1,0 +1,10 @@
+email,password
+john@example.com,pass1234
+jane.doe@example.net,pass5678
+bob@example.org,empty
+,@!%^&*((
+null,null
+alice@example.com,securepassword1
+empty,password
+notanemail,notapassword
+steve@example.com,12345678

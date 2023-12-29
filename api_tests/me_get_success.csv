@@ -1,0 +1,11 @@
+id,did,name,image,email,settings,createdAt,updatedAt
+3fa85f64-5717-4562-b3fc-2c963f66afa6,DID1234,John Doe,https://image.jpg,johndoe@gmail.com,{\"lang\":\"en\",\"notifications\":true},2022-05-10T13:49:37.643Z,2022-05-10T13:49:37.643Z
+947fe570-0f05-478c-9b3c-b08aefea3249,DID5678,Jane Smith,https://image2.jpg,janesmith@gmail.com,{\"lang\":\"es\",\"notifications\":false},2022-05-11T14:29:18.639Z,2022-05-11T14:29:18.639Z
+23fc3725-bb39-417d-b066-c474d6c95b1d,DID9012,James Brown,https://image3.jpg,jamesbrown@gmail.com,{\"lang\":\"fr\",\"notifications\":true},2022-05-12T15:19:42.675Z,2022-05-12T15:19:42.675Z
+f2418453-c3ac-4211-8c2c-2ffb3b5455df,DID3456,Jenny Johnson,https://image4.jpg,jennyjohnson@gmail.com,{\"lang\":\"de\",\"notifications\":false},2022-05-13T16:39:11.243Z,2022-05-13T16:39:11.243Z
+b8544fef-5a03-435e-84b2-5b862c23af39,DID7890,Jack Williams,https://image5.jpg,jackwilliams@gmail.com,{\"lang\":\"it\",\"notifications\":true},2022-05-14T17:03:05.623Z,2022-05-14T17:03:05.623Z
+acb32df4-5bfa-4457-8054-25cba245e976,DID2345,Jessica Davis,https://image6.jpg,jessicadavis@gmail.com,{\"lang\":\"pt\",\"notifications\":false},2022-05-15T18:07:35.992Z,2022-05-15T18:07:35.992Z
+4cba2494-209f-4caf-b449-2acb92235b42,DID6789,Jeffrey Miller,https://image7.jpg,jeffreymiller@gmail.com,{\"lang\":\"ru\",\"notifications\":true},2022-05-16T19:13:41.423Z,2022-05-16T19:13:41.423Z
+5111f892-e949-41a9-8abe-14bd3d2c31d4,DID0123,Jacob Wilson,https://image8.jpg,jacobwilson@gmail.com,{\"lang\":\"zh\",\"notifications\":false},2022-05-17T20:14:13.543Z,2022-05-17T20:14:13.543Z
+244f91d5-caa2-4949-b492-41b2ed0216b5,DID4567,Julia Moore,https://image9.jpg,juliamoore@gmail.com,{\"lang\":\"ja\",\"notifications\":true},2022-05-18T21:19:24.654Z,2022-05-18T21:19:24.654Z
+e9475792-0b38-42c5-b492-56c567234568,DID8910,Joseph Taylor,https://image10.jpg,josephtaylor@gmail.com,{\"lang\":\"ar\",\"notifications\":false},2022-05-19T22:25:27.763Z,2022-05-19T22:25:27.763Z

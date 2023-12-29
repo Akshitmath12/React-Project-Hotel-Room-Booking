@@ -1,0 +1,11 @@
+name,image,settings
+John_Doe,data:image/jpeg;base64,VGhpcyBpcyBhIHNhbXBsZSBlbmNvZGVkIGltYWdlLg==,{"language": "English", "notifications": true}
+Jane_Doe,,{"language": "French", "notifications": false}
+Paul_Smith,data:image/jpeg;base64,RXhhbXBsZSBiYXNlNjQgaW1hZ2U=,{"language": "German", "notifications": true}
+George_Bush,data:image/jpeg;base64,VGhpcyBpcyBhbm90aGVyIHNhbXBsZSBlbmNvZGVkIGltYWdlLg==,{"language": "Spanish", "notifications": true}
+Emma_Watson,data:image/jpeg;base64,QW5vdGhlciBlbmNvZGVkIGltYWdlIGV4YW1wbGU=,{"language": "Japanese", "notifications": false}
+Helen_Miller,data:image/jpeg;base64,U29tZSBlbmNvZGVkIGltYWdlIGRhdGE=,{"language": "Korean", "notifications": true}
+Robert_Brown,,{"language": "Italian", "notifications": false}
+Monica_Bing,data:image/jpeg;base64,RXhwb3J0ZWQgZnJvbSB0aGUgZXhhbXBsZSBlbmNvZGVkIGRhdGE=,{"language": "English", "notifications": true}
+Nelson_Mandela,data:image/jpeg;base64,QW5vdGhlciBlbmNvZGVkIGltYWdlIGV4YW1wbGU=,{"language": "Zulu", "notifications": false}
+Margaret_Thatcher,data:image/jpeg;base64,U29tZSBlbmNvZGVkIGltYWdlIGRhdGE=,{"language": "English", "notifications": false}

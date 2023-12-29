@@ -1,0 +1,11 @@
+statusCode,api-version,total,authorizations.id,authorizations.name,authorizations.email,authorizations.createdAt,authorizations.updatedAt
+200,1.0.0,1,abc123,John Doe,johndoe@gmail.com,2021-09-15T12:30:00Z,2021-09-15T12:30:00Z
+200,1.0.0,2,abc124,Jane Doe,janedoe@gmail.com,2021-09-16T12:30:00Z,2021-09-16T12:30:00Z
+200,1.0.0,3,abc125,David Smith,davidsmith@gmail.com,2021-09-17T12:30:00Z,2021-09-17T12:30:00Z
+200,1.0.0,4,abc126,Sarah Johnson,sarahjohnson@gmail.com,2021-09-18T12:30:00Z,2021-09-18T12:30:00Z
+200,1.0.0,5,abc127,Michael Williams,michaelwilliams@gmail.com,2021-09-19T12:30:00Z,2021-09-19T12:30:00Z
+200,1.0.0,6,abc128,Emily Brown,emilybrown@gmail.com,2021-09-20T12:30:00Z,2021-09-20T12:30:00Z
+200,1.0.0,7,abc129,Paul Davis,pauldavis@gmail.com,2021-09-21T12:30:00Z,2021-09-21T12:30:00Z
+200,1.0.0,8,abc130,Laura Miller,lauramiller@gmail.com,2021-09-22T12:30:00Z,2021-09-22T12:30:00Z
+200,1.0.0,9,abc131,Jacob Wilson,jacobwilson@gmail.com,2021-09-23T12:30:00Z,2021-09-23T12:30:00Z
+200,1.0.0,10,abc132,Olivia Lee,olivialee@gmail.com,2021-09-24T12:30:00Z,2021-09-24T12:30:00Z

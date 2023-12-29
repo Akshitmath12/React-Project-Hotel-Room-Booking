@@ -1,0 +1,11 @@
+reference,startDate,endDate,credentialUrl
+ref001,2022-01-01,2022-12-31,http://validurl.com
+ref002,2022-01-02,,http://validurl.com
+ref003,2022-01-03,2022-12-31,http://validurl.com
+ref004,2022-01-04,,http://validurl.com
+ref005,2022-01-05,2022-12-30,http://validurl.com
+ref006,BAD_DATE,2022-12-31,http://validurl.com
+ref007,2022-01-07,BAD_DATE,http://validurl.com
+ref008,2022-01-08,,BAD_URL
+ref009,2022-01-09,2022-12-31,http://validurl.com
+ref010,2022-01-10,NoEndDate,http://validurl.com

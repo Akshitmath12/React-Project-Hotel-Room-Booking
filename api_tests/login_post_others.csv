@@ -1,0 +1,11 @@
+email,otp,client
+john@gmail.com,123456,client1
+hillary@yahoo.com,789012,client2
+,peter@hotmail.com,345678,client3
+mike@aol.com,901234,client4
+casey@outlook.com,,client5
+,567890,client6
+emily@icloud.com,234567,client7
+anne@zoho.com,678901,client8
+andy@gmail.com,890123,client9
+drew@yahoo.com,456789,client10
